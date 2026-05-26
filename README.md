@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+Daniel+L%C3%B3pez+Orta+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+m-shamim09+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshamim.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-m-shamim09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-shamim09)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d0f3a4855e25d0a1)
+[![Profile](https://img.shields.io/badge/Profile-m-shamim09-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-shamim09)
 
 </div>
 
@@ -38,7 +38,7 @@ My systems don't just respond — **they think.**
 
 ## 🚀 The Agentic Intelligence Lab
 
-<sub>Below are my flagship autonomous systems — 108+ repositories, engineered for high-stakes production environments across every industry vertical.</sub>
+<sub>Below are my flagship autonomous systems — 80+ repositories, engineered for high-stakes production environments across every industry vertical.</sub>
 
 ---
 
@@ -48,7 +48,7 @@ My systems don't just respond — **they think.**
 <tr>
 <td width="50%">
 
-### 🔴 [Autonomous-Secure-AI-Operations-Center](https://github.com/m-shamim09/Autonomous-Secure-AI-Operations-Center)
+### 🔴 [AegisCore-DevOps](https://github.com/m-shamim09/AegisCore-DevOps)
 **A-SOC — Autonomous Threat Intelligence & Mitigation**
 
 An agentic, cloud-native security platform that autonomously detects, analyzes, and mitigates threats using LLM-powered multi-agent reasoning with real-time visibility and blast-radius analysis.
@@ -70,7 +70,7 @@ An autonomous AI-powered DevOps system that orchestrates CI/CD, PR reviews, site
 <tr>
 <td width="50%">
 
-### 🗡️ [Autonomous-Multi-Agent-Offensive-Security](https://github.com/m-shamim09/Autonomous-Multi-Agent-Offensive-Security)
+### 🗡️ [Mantis-AI](https://github.com/m-shamim09/Mantis-AI)
 **The Future of Offensive Security**
 
 Orchestrated by Autonomous AI Agents — automating phishing detection, polymorphic malware analysis, and penetration testing through multi-agent collaboration.
@@ -80,7 +80,7 @@ Orchestrated by Autonomous AI Agents — automating phishing detection, polymorp
 </td>
 <td width="50%">
 
-### 🔍 [Cognitive-Code-Architect-Debugging-Agent](https://github.com/m-shamim09/Cognitive-Code-Architect-Debugging-Agent)
+### 🔍 [Helix-AI-Orchestrator](https://github.com/m-shamim09/Helix-AI-Orchestrator)
 **TitanAI — Deep Code Auditing**
 
 A premium autonomous system for deep code auditing using LangGraph-based cyclic architecture with 11 specialized reasoning nodes mirroring senior engineer cognition.
@@ -160,7 +160,7 @@ An AI-powered legal platform automating contract review, legal research, documen
 </td>
 <td width="50%">
 
-### 🏥 [Autonomous-Insurance-Claims-Processor-System](https://github.com/m-shamim09/Autonomous-Insurance-Claims-Processor-System)
+### 🏥 [ClaimOS](https://github.com/m-shamim09/ClaimOS)
 **ClaimOS — 4-Day to 4-Minute Processing**
 
 Enterprise-grade AI system that transforms insurance claims processing from a 4-day manual workflow into a 4-minute automated decision pipeline.
@@ -201,7 +201,7 @@ A production-ready, agentic AI chatbot for e-commerce — routing conversations 
 <tr>
 <td width="50%">
 
-### 🎓 [Next-Gen-AI-Agent-Tutor-Ecosystem](https://github.com/m-shamim09/Next-Gen-AI-Agent-Tutor-Ecosystem)
+### 🎓 [CogniLearn-AI](https://github.com/m-shamim09/CogniLearn-AI)
 **Autonomous AI Tutor Ecosystem**
 
 Powered by LangGraph & CrewAI — delivering hyper-personalized lessons, intelligent quizzes, and 24/7 doubt resolution through multi-agent collaboration.
@@ -223,7 +223,7 @@ Enterprise-grade autonomous system handling the entire lifecycle of social media
 <tr>
 <td width="50%">
 
-### 💼 [Autonomous-Agentic-Bridge-to-Career-Opportunities](https://github.com/m-shamim09/Autonomous-Agentic-Bridge-to-Career-Opportunities)
+### 💼 [NexusHire-AI-Agent](https://github.com/m-shamim09/NexusHire-AI-Agent)
 **EliteApply AI — Job Application Agent**
 
 A next-generation autonomous agent revolutionizing the job application process using the cutting-edge sentient framework with Large Multimodal Models.
@@ -263,7 +263,7 @@ An Agentic AI layer for autonomous workflow optimization — replacing static da
 <td width="50%">
 
 ### 📊 [The-Intelligent-Semantic-Layer-for-Modern-Data-Teams](https://github.com/m-shamim09/The-Intelligent-Semantic-Layer-for-Modern-Data-Teams)
-**Daniel SQL AI — Autonomous Data Analyst**
+**SQL AI — Autonomous Data Analyst**
 
 A premium, autonomous Data Analyst bridging complex databases and executive decision-making. No SQL, no bottlenecks — just raw intelligence.
 
@@ -335,13 +335,61 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Awards & Achievements
+
+<sub>GitHub surfaces achievements on your profile automatically — this section showcases platform recognition, contribution milestones, and portfolio highlights.</sub>
+
+### 🎖️ GitHub Platform Recognition
+
+<div align="center">
+
+<a href="https://github.com/m-shamim09?tab=achievements">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-shamim09&theme=radical" alt="GitHub Profile Details" width="98%" />
+</a>
+
+<br/><br/>
+
+[![Achievements](https://img.shields.io/badge/View-GitHub_Achievements-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09?tab=achievements)
+[![Trophies](https://img.shields.io/badge/View-Profile_Trophies-FF6B35?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
+
+</div>
+
+| Recognition | Status |
+|:------------|:-------|
+| **Public Repositories** | 100+ production & research projects |
+| **Contribution Graph** | Consistent daily activity (2024–2026) |
+| **Agentic AI Portfolio** | 80+ autonomous systems published |
+| **Open Source Maintainer** | Active multi-repo architecture & releases |
+
+### 🥇 Contribution Milestones
+
+<div align="center">
+
+![Repositories](https://img.shields.io/badge/Repositories-100%2B-00D9FF?style=for-the-badge&labelColor=0a0a0a)
+![Contributions](https://img.shields.io/badge/Contributions-2000%2B-FF6B35?style=for-the-badge&labelColor=0a0a0a)
+![Streak](https://img.shields.io/badge/Activity-2024→2026-7B2FBE?style=for-the-badge&labelColor=0a0a0a)
+![Multi-Agent](https://img.shields.io/badge/Focus-Multi--Agent_AI-00C853?style=for-the-badge&labelColor=0a0a0a)
+
+</div>
+
+### 🏅 GitHub Trophies
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=m-shamim09&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
 
 </div>
+
+### 📌 How GitHub Achievements Work
+
+GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quickdraw*) when you:
+
+- Merge pull requests and review code
+- Fix issues and participate in discussions
+- Ship consistent commits across repositories
+- Use GitHub features (Actions, security, co-authors)
+
+**To showcase them:** they appear on [your Achievements tab](https://github.com/m-shamim09?tab=achievements) and in the profile sidebar once earned. This README uses **trophy cards** and **stats widgets** that update automatically from your public activity.
 
 ---
 
@@ -364,8 +412,8 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-m-shamim09-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
-[![Upwork](https://img.shields.io/badge/💼_Hire_Me-Upwork-6FDA44?style=for-the-badge&labelColor=0a0a0a)](https://www.upwork.com/freelancers/~01d0f3a4855e25d0a1)
 [![Email](https://img.shields.io/badge/📧_Business_Inquiry-Email-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:mshamim.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-m-shamim09-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
 
 </div>
 
