@@ -1,9 +1,11 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+m-shamim09+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Shamim+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
 
 <br/>
+
+### **Muhammad Shamim** · [@m-shamim09](https://github.com/m-shamim09)
 
 ### **Agentic AI Systems Architect | Orchestrating Autonomous Multi-Agent Intelligence**
 
@@ -389,7 +391,7 @@ GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quick
 - Ship consistent commits across repositories
 - Use GitHub features (Actions, security, co-authors)
 
-**To showcase them:** they appear on [your Achievements tab](https://github.com/m-shamim09?tab=achievements) and in the profile sidebar once earned. This README uses **trophy cards** and **stats widgets** that update automatically from your public activity.
+**To showcase them:** they appear on the [Achievements tab](https://github.com/m-shamim09?tab=achievements) and in the profile sidebar once earned. This README uses **trophy cards** and **stats widgets** that update automatically from public activity.
 
 ---
 
@@ -411,11 +413,20 @@ GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quick
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-m-shamim09-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
-[![Email](https://img.shields.io/badge/📧_Business_Inquiry-Email-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:mshamim.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Muhammad_Shamim-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
+[![Email](https://img.shields.io/badge/📧_mshamim.work@gmail.com-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:mshamim.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-m-shamim09-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
 
 </div>
+
+---
+
+## Author & Contact
+
+- **Author:** Muhammad Shamim
+- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
+- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
+- **Profile:** https://github.com/m-shamim09
 
 ---
 
