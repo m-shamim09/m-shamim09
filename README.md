@@ -20,9 +20,9 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshamim.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-m-shamim09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-shamim09)
-[![Profile](https://img.shields.io/badge/Profile-m-shamim09-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-shamim09)
+[![Email](https://img.shields.io/badge/Email-mshamim.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshamim.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-m--shamim09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-shamim09)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010e910b2b87796385)
 
 </div>
 
@@ -325,7 +325,7 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-shamim09&theme=radical&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555555" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=m-shamim09&theme=radical&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555555" width="70%" />
 
 </div>
 
@@ -369,7 +369,7 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 ![Repositories](https://img.shields.io/badge/Repositories-100%2B-00D9FF?style=for-the-badge&labelColor=0a0a0a)
 ![Contributions](https://img.shields.io/badge/Contributions-2000%2B-FF6B35?style=for-the-badge&labelColor=0a0a0a)
-![Streak](https://img.shields.io/badge/Activity-2024→2026-7B2FBE?style=for-the-badge&labelColor=0a0a0a)
+![Streak](https://img.shields.io/badge/Activity-2024--2026-7B2FBE?style=for-the-badge&labelColor=0a0a0a)
 ![Multi-Agent](https://img.shields.io/badge/Focus-Multi--Agent_AI-00C853?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
@@ -378,7 +378,7 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=m-shamim09&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=m-shamim09&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" width="95%" alt="GitHub Trophies" />
 
 </div>
 
@@ -413,9 +413,10 @@ GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quick
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Muhammad_Shamim-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
-[![Email](https://img.shields.io/badge/📧_mshamim.work@gmail.com-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:mshamim.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-m-shamim09-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Muhammad_Shamim-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
+[![Email](https://img.shields.io/badge/Email-mshamim.work%40gmail.com-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:mshamim.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-m--shamim09-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/m-shamim09)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&labelColor=0a0a0a)](https://www.upwork.com/freelancers/~010e910b2b87796385)
 
 </div>
 
